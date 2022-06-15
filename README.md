@@ -10,3 +10,7 @@ The data used for model training is crawled from Youtube. For data collecting, d
 ### Heroku deployment
 
 https://youtubeclassifier.herokuapp.com/
+
+### Link web app
+
+https://phanloaivideoyoutubenhom1.herokuapp.com/
