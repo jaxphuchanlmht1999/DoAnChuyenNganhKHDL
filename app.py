@@ -13,7 +13,7 @@ app = Flask(__name__)
 
 classes = ['giáo dục và khoa học công nghệ', 'giải trí và nghệ thuật',
        'tin tức', 'đời sống']
-model = p.load(open('C:\Learn\Youtube-Title-Classifier-main-DoAnChuyenNganh\mlmodels\Quan_SVM', 'rb'))
+model = p.load(open('mlmodels/Quan_SVM', 'rb'))
 
 
 def make_predict(data, model):
